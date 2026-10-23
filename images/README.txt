@@ -1,0 +1,1 @@
+Add real, hospital-approved photos here when available (for example: exterior, reception, consultation room or staff portraits). Do not use unrelated stock photos that could misrepresent the hospital. Optimise images for mobile, use descriptive filenames and meaningful alt text. The current homepage uses a CSS/Material Symbols graphic until approved photography is supplied.
